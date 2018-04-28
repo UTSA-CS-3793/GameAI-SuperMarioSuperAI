@@ -32,7 +32,7 @@ Virtual Box Image
 	Steps to execute:
 	- Import the image into virtual box
 	- Boot it up and log in. The user password is "1234"
-	- `cd Desktop/Tensor-dough/gym-rle`
+	`cd Desktop/Tensor-dough/gym-rle`
 	- To train the model
 	  - `python mario_train.py`
 	- To run an already trained model
