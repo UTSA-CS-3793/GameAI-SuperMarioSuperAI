@@ -3,7 +3,10 @@ Spring 2018 - Repository for Team Tensor-Dough
 
 Virtual Box Image
 =================
-	I have set up a virtual machine image with all the dependencies and files already installed to make it easier if you do not want set to set up the environment on your machine.
+	I have set up a virtual machine image with all the 
+	dependencies and files already installed to make it 
+	easier if you do not want set to set up the 
+	environment on your machine.
 
 	A download for the image can be found here:
 		link
