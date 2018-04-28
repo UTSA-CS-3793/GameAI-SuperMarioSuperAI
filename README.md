@@ -1,6 +1,24 @@
 # GameAI-SuperMarioSuperAI
 Spring 2018 - Repository for Team Tensor-Dough
 
+Goal
+====
+	Our goal was to create an agent to beat Super Mario World for 
+	the Super Nintendo. Our method in solving this problem was by 
+	utilizing a Deep Q network which is a deep neural network combined
+	with reinforcement learning.
+	
+Results / What to Expect
+========================
+	We weren't able to ultimately accomplish our goal strictly due to 
+	hardware deficiencies. Our machines weren't powerful enough to train
+	effectively without causing our energy bills to rocket through the roof
+	from maxing out our CPUs and GPUs for days on end. As of now, our agent 
+	still just runs right out of the intro map and can not enter the first
+	level. We do believe our algorithm would be successful if we had the
+	proper hardware.
+	
+	
 Virtual Box Image
 =================
 	I have set up a virtual machine image with all the 
