@@ -32,11 +32,11 @@ Virtual Box Image
 	Steps to execute:
 	- Import the image into virtual box
 	- Boot it up and log in. The user password is "1234"
-	- cd Desktop/Tensor-dough/gym-rle
+	- `cd Desktop/Tensor-dough/gym-rle`
 	- To train the model
-	  - python mario_train.py
+	  - `python mario_train.py`
 	- To run an already trained model
-	  - python mario_run.py
+	  - `python mario_run.py`
 
 
 Manual Environment Setup
@@ -56,23 +56,23 @@ Dependencies
 	- Retro Learning Environment (RLE)
 	  - https://github.com/nadavbh12/Retro-Learning-Environment
 	- libsdl1.2-dev | libsdl-gfx1.2-dev | libsdl-image1.2-dev | cmake
-	  - sudo apt-get install libsdl1.2-dev libsdl-gfx1.2-dev libsdl-image1.2-dev cmake
+	  - `sudo apt-get install libsdl1.2-dev libsdl-gfx1.2-dev libsdl-image1.2-dev cmake`
 	- Gym Retro Learning Environment (Gym-RLE)
 	  - https://github.com/nadavbh12/gym-rle
 	- pip 8.1.1
-	  - sudo apt-get install python-pip
+	  - `sudo apt-get install python-pip`
 	- numpy 1.11.0
-	  - sudo apt-get install python-numpy
+	  - `sudo apt-get install python-numpy`
 	- Super Mario World ROM
 	  - https://drive.google.com/file/d/154rlFZGZHU2fjPF96K6gzPp9Uszk11k8/view?usp=sharing
 	- Keras 2.1.6
-	  - sudo pip install keras
+	  - `sudo pip install keras`
 	- Keras-rl 0.3.1
-	  - sudo pip install keras-rl==0.3.1
+	  - `sudo pip install keras-rl==0.3.1`
 	- Pillow
-	  - sudo pip install pillow
+	  - `sudo pip install pillow`
 	- h5py
-	  - sudo pip install h5py
+	  - `sudo pip install h5py`
 
 
 
