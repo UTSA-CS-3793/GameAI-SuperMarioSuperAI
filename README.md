@@ -21,22 +21,22 @@ Results / What to Expect
 	
 Virtual Box Image
 =================
-	I have set up a virtual machine image with all the 
-	dependencies and files already installed to make it 
-	easier if you do not want set to set up the 
-	environment on your machine.
+I have set up a virtual machine image with all the 
+dependencies and files already installed to make it 
+easier if you do not want set to set up the 
+environment on your machine.
 
-	A download for the image can be found here:
-		https://drive.google.com/file/d/16iOKgAxL1owqzZF3FLHQeDewMaaojJDE/view?usp=sharing
+A download for the image can be found here:
+	https://drive.google.com/file/d/16iOKgAxL1owqzZF3FLHQeDewMaaojJDE/view?usp=sharing
 
-	Steps to execute:
-	- Import the image into virtual box
-	- Boot it up and log in. The user password is "1234"
-	`cd Desktop/Tensor-dough/gym-rle`
-	- To train the model
-	  - `python mario_train.py`
-	- To run an already trained model
-	  - `python mario_run.py`
+Steps to execute:
+- Import the image into virtual box
+- Boot it up and log in. The user password is "1234"
+`cd Desktop/Tensor-dough/gym-rle`
+- To train the model
+  - `python mario_train.py`
+- To run an already trained model
+  - `python mario_run.py`
 
 
 Manual Environment Setup
