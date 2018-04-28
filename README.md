@@ -27,7 +27,7 @@ Virtual Box Image
 	environment on your machine.
 
 	A download for the image can be found here:
-		link
+		https://drive.google.com/file/d/16iOKgAxL1owqzZF3FLHQeDewMaaojJDE/view?usp=sharing
 
 	Steps to execute:
 	- Import the image into virtual box
